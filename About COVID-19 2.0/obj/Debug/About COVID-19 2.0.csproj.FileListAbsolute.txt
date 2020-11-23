@@ -1,0 +1,16 @@
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\bin\Debug\About COVID-19 2.0.exe.config
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\bin\Debug\About COVID-19 2.0.exe
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\bin\Debug\About COVID-19 2.0.pdb
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About COVID-19 2.0.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About COVID-19 2.0.exe
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About COVID-19 2.0.pdb
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.FAQ1.resources
+c:\users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.UserControlHome.resources
+C:\Users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.FAQ2.resources
+C:\Users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.FAQ3.resources
+C:\Users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.MythBusters.resources
+C:\Users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.Summary.resources
+C:\Users\user\documents\visual studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About_COVID_19_2._0.About.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\About COVID-19 2.0\About COVID-19 2.0\obj\Debug\About COVID-19 2.0.csprojResolveAssemblyReference.cache
